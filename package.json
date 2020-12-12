@@ -1,5 +1,5 @@
 {
-  "name": "webpack-mock-warn",
+  "name": "webpack-mock-warn-plugin",
   "version": "1.0.0",
   "description": "When build, it detects the mock data and throws a warning",
   "main": "./src/index.js",
